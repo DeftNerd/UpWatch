@@ -4,7 +4,6 @@
 #
 # @version		0.0.1
 # @date			2014-03-31
-# @credits		Originaly forked from nodequery/nq-agent v0.7.4
 #
 # THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 # IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
