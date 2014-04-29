@@ -45,7 +45,7 @@ fi
 mkdir -p /etc/upwatch
 
 # Download agent
-echo -e "|   Downloading upwatch-agent.sh to /etc/upwatch\n|\n|   + $(wget -nv -o /dev/stdout -O /etc/upwatch/upwatch-agent.sh --no-check-certificate https://raw.github.com/DeftNerd/upwat.ch/master/upwatch-agent.sh)"
+echo -e "|   Downloading upwatch-agent.sh to /etc/upwatch\n|\n|   + $(wget -nv -o /dev/stdout -O /etc/upwatch/upwatch-agent.sh --no-check-certificate https://raw.github.com/DeftNerd/UpWatch/master/upwatch-agent.sh)"
 
 if [ -f /etc/upwatch/upwatch-agent.sh ]
 then
