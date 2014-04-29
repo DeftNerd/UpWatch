@@ -4,7 +4,6 @@
 #
 # @version		0.0.1
 # @date			2014-04-31
-# @credits		Forked from nodequery/ng-agent v1.0.3
 #
 
 # Set environment
